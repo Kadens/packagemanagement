@@ -17,3 +17,6 @@ git push -u origin main
 git remote add origin https://github.com/johnhansenbouvet/packagemanagement.git
 git branch -M main
 git push -u origin main
+
+
+https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
